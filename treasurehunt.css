@@ -1,0 +1,43 @@
+h1, h2 {
+    color:gold;
+    Text-align: center;
+}
+.line {
+    text-align: center;
+    padding: 0;
+}
+h4 {
+    Text-align: Center;
+}
+body {
+    background-color: skyblue;
+    background-image:url(https://i1.pickpik.com/photos/196/913/234/island-rock-ocean-water-preview.jpg ); 
+    background-position:center;
+    background-size:cover;
+    background-blend-mode:overlay;
+
+}
+#chart {
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    margin: auto;
+    border-radius: 10px;
+    justify-content:center;
+    text-align:center;
+}
+td{
+    height:300px;
+    width:300px;
+    font-size:100px;
+    border:2px solid black;
+   
+
+}
+#Tpic {
+height:300px; 
+width:300px;
+display: block;
+margin: auto;
+}
